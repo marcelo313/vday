@@ -73,7 +73,7 @@
 }
 .heart{
     position: absolute;
-    top: 52%;
+    top: 55%;
     left: 50%;
     width: 15px;
     height: 15px;
@@ -113,4 +113,5 @@
     transform: rotate(45deg);
     transition-delay: 0.4s;
 }
+
 
