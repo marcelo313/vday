@@ -6,7 +6,7 @@
     --envelope-cover: #e6cfa7;
     --shadow-color: rgba(0, 0, 0, 0.2);
     --txt-color: #444;
-    --heart-color: rgb(255, 1000, 234);
+    --heart-color: rgb(252, 8, 231);
   }
   body{
     margin: 0;
@@ -73,7 +73,7 @@
 }
 .heart{
     position: absolute;
-    top: 60%;
+    top: 59%;
     left: 50%;
     width: 15px;
     height: 15px;
@@ -113,6 +113,7 @@
     transform: rotate(45deg);
     transition-delay: 0.4s;
 }
+
 
 
 
